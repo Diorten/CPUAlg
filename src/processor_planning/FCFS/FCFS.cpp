@@ -5,8 +5,39 @@
 
 void FirstCome::findWaitingTtime()
 {
-    //Waiting time for first process is 0
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        for (int j = 0; j < (int) _stack.size(); j++)
+        {
+            if (_stack.at(i).coming_time < _stack.at(j).coming_time)
+            {
+                int temp_incoming = _stack.at(j).coming_time;
+                int temp_executing = _stack.at(j).executing_time;
+                int temp_id = _stack.at(j).id;
+                _stack.at(j) = _stack.at(i);
+                _stack.at(i).id = temp_id;
+                _stack.at(i).coming_time = temp_incoming;
+                _stack.at(i).executing_time = temp_executing;
+            }
+        }
+    }
+    /*
+    for (int i = 1; i < (int) _stack.size(); i++)
+    {
+        _stack.at(i).coming_time -= _stack.at(0).coming_time;
+    }
+    */
+    _stack.at(0).coming_time = 0;
+    
+    /*
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        std::cout << _stack.at(i).coming_time << " " << _stack.at(i).executing_time << "\n";
+    }
+    */
+    
     _stack.at(0).waiting_time = 0;
+
 
     for (auto i = 1; i < (int) _stack.size(); i++)
     {
