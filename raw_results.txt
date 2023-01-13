@@ -1,0 +1,2120 @@
+Uruchomienie 1
+Wybierz sposób wprowadzenia danych:
+[1] - wygeneruj
+[2] - wprowadź z pliku
+[3] - wprowadź ręcznie
+[4] - wyświetl informacje
+Ostatecznie wybierz ilość ramek pamięci:
+FCFS:
+Process 31 finished, waiting time: 0, executing time: 300
+Process 100 finished, waiting time: 300, executing time: 603
+Process 89 finished, waiting time: 600, executing time: 904
+Process 28 finished, waiting time: 900, executing time: 1204
+Process 37 finished, waiting time: 1198, executing time: 1504
+Process 79 finished, waiting time: 1497, executing time: 1804
+Process 64 finished, waiting time: 1796, executing time: 2103
+Process 23 finished, waiting time: 2094, executing time: 2405
+Process 8 finished, waiting time: 2395, executing time: 2704
+Process 38 finished, waiting time: 2694, executing time: 3005
+Process 16 finished, waiting time: 2993, executing time: 3306
+Process 10 finished, waiting time: 3293, executing time: 3605
+Process 36 finished, waiting time: 3592, executing time: 3906
+Process 74 finished, waiting time: 3893, executing time: 4207
+Process 87 finished, waiting time: 4193, executing time: 4508
+Process 99 finished, waiting time: 4491, executing time: 4808
+Process 60 finished, waiting time: 4790, executing time: 5112
+Process 91 finished, waiting time: 5090, executing time: 5412
+Process 63 finished, waiting time: 5389, executing time: 5713
+Process 61 finished, waiting time: 5689, executing time: 6013
+Process 90 finished, waiting time: 5988, executing time: 6314
+Process 42 finished, waiting time: 6288, executing time: 6611
+Process 32 finished, waiting time: 6585, executing time: 6911
+Process 45 finished, waiting time: 6884, executing time: 7210
+Process 70 finished, waiting time: 7183, executing time: 7509
+Process 14 finished, waiting time: 7481, executing time: 7810
+Process 34 finished, waiting time: 7781, executing time: 8109
+Process 72 finished, waiting time: 8080, executing time: 8409
+Process 94 finished, waiting time: 8379, executing time: 8709
+Process 54 finished, waiting time: 8678, executing time: 9010
+Process 66 finished, waiting time: 8979, executing time: 9310
+Process 15 finished, waiting time: 9279, executing time: 9611
+Process 84 finished, waiting time: 9579, executing time: 9909
+Process 96 finished, waiting time: 9876, executing time: 10209
+Process 50 finished, waiting time: 10176, executing time: 10508
+Process 46 finished, waiting time: 10474, executing time: 10807
+Process 92 finished, waiting time: 10773, executing time: 11107
+Process 93 finished, waiting time: 11073, executing time: 11406
+Process 12 finished, waiting time: 11372, executing time: 11708
+Process 78 finished, waiting time: 11673, executing time: 12009
+Process 20 finished, waiting time: 11973, executing time: 12307
+Process 95 finished, waiting time: 12271, executing time: 12606
+Process 48 finished, waiting time: 12570, executing time: 12908
+Process 4 finished, waiting time: 12871, executing time: 13211
+Process 9 finished, waiting time: 13170, executing time: 13513
+Process 73 finished, waiting time: 13470, executing time: 13814
+Process 22 finished, waiting time: 13769, executing time: 14115
+Process 69 finished, waiting time: 14070, executing time: 14416
+Process 47 finished, waiting time: 14369, executing time: 14716
+Process 19 finished, waiting time: 14667, executing time: 15016
+Process 65 finished, waiting time: 14966, executing time: 15315
+Process 71 finished, waiting time: 15265, executing time: 15613
+Process 39 finished, waiting time: 15563, executing time: 15912
+Process 24 finished, waiting time: 15862, executing time: 16213
+Process 18 finished, waiting time: 16162, executing time: 16511
+Process 98 finished, waiting time: 16459, executing time: 16811
+Process 6 finished, waiting time: 16759, executing time: 17109
+Process 40 finished, waiting time: 17057, executing time: 17407
+Process 86 finished, waiting time: 17355, executing time: 17708
+Process 13 finished, waiting time: 17655, executing time: 18005
+Process 25 finished, waiting time: 17951, executing time: 18303
+Process 97 finished, waiting time: 18249, executing time: 18603
+Process 52 finished, waiting time: 18548, executing time: 18901
+Process 51 finished, waiting time: 18846, executing time: 19205
+Process 21 finished, waiting time: 19147, executing time: 19505
+Process 43 finished, waiting time: 19447, executing time: 19807
+Process 11 finished, waiting time: 19748, executing time: 20105
+Process 81 finished, waiting time: 20046, executing time: 20406
+Process 75 finished, waiting time: 20344, executing time: 20704
+Process 80 finished, waiting time: 20642, executing time: 21005
+Process 33 finished, waiting time: 20941, executing time: 21306
+Process 85 finished, waiting time: 21241, executing time: 21604
+Process 29 finished, waiting time: 21539, executing time: 21904
+Process 53 finished, waiting time: 21837, executing time: 22201
+Process 55 finished, waiting time: 22133, executing time: 22500
+Process 68 finished, waiting time: 22431, executing time: 22800
+Process 3 finished, waiting time: 22730, executing time: 23099
+Process 56 finished, waiting time: 23028, executing time: 23398
+Process 58 finished, waiting time: 23326, executing time: 23698
+Process 27 finished, waiting time: 23626, executing time: 24000
+Process 59 finished, waiting time: 23926, executing time: 24300
+Process 35 finished, waiting time: 24226, executing time: 24599
+Process 82 finished, waiting time: 24524, executing time: 24898
+Process 17 finished, waiting time: 24823, executing time: 25198
+Process 83 finished, waiting time: 25123, executing time: 25496
+Process 26 finished, waiting time: 25420, executing time: 25799
+Process 88 finished, waiting time: 25719, executing time: 26098
+Process 1 finished, waiting time: 26017, executing time: 26398
+Process 57 finished, waiting time: 26316, executing time: 26698
+Process 62 finished, waiting time: 26615, executing time: 26998
+Process 76 finished, waiting time: 26913, executing time: 27299
+Process 49 finished, waiting time: 27212, executing time: 27597
+Process 67 finished, waiting time: 27510, executing time: 27896
+Process 30 finished, waiting time: 27809, executing time: 28196
+Process 77 finished, waiting time: 28108, executing time: 28496
+Process 5 finished, waiting time: 28407, executing time: 28794
+Process 44 finished, waiting time: 28705, executing time: 29093
+Process 2 finished, waiting time: 29003, executing time: 29394
+Process 41 finished, waiting time: 29304, executing time: 29693
+Process 7 finished, waiting time: 29603, executing time: 29995
+Średni czas oczekiwania procesu: 14808.5
+Średni czas wykonywania procesu: 15155.3
+
+
+LCFS:
+Process 7 finished, waiting time: 0, executing time: 299
+Process 44 finished, waiting time: 299, executing time: 597
+Process 41 finished, waiting time: 597, executing time: 896
+Process 2 finished, waiting time: 896, executing time: 1197
+Process 77 finished, waiting time: 1197, executing time: 1496
+Process 5 finished, waiting time: 1496, executing time: 1794
+Process 30 finished, waiting time: 1794, executing time: 2093
+Process 76 finished, waiting time: 2093, executing time: 2392
+Process 67 finished, waiting time: 2392, executing time: 2691
+Process 49 finished, waiting time: 2691, executing time: 2989
+Process 62 finished, waiting time: 2989, executing time: 3287
+Process 57 finished, waiting time: 3287, executing time: 3586
+Process 1 finished, waiting time: 3586, executing time: 3885
+Process 88 finished, waiting time: 3885, executing time: 4183
+Process 26 finished, waiting time: 4183, executing time: 4482
+Process 83 finished, waiting time: 4482, executing time: 4779
+Process 82 finished, waiting time: 4779, executing time: 5078
+Process 35 finished, waiting time: 5078, executing time: 5376
+Process 17 finished, waiting time: 5376, executing time: 5676
+Process 59 finished, waiting time: 5676, executing time: 5976
+Process 27 finished, waiting time: 5976, executing time: 6276
+Process 58 finished, waiting time: 6276, executing time: 6576
+Process 56 finished, waiting time: 6576, executing time: 6874
+Process 3 finished, waiting time: 6874, executing time: 7172
+Process 68 finished, waiting time: 7172, executing time: 7471
+Process 55 finished, waiting time: 7471, executing time: 7769
+Process 53 finished, waiting time: 7769, executing time: 8065
+Process 29 finished, waiting time: 8065, executing time: 8363
+Process 85 finished, waiting time: 8363, executing time: 8661
+Process 33 finished, waiting time: 8661, executing time: 8961
+Process 80 finished, waiting time: 8961, executing time: 9260
+Process 81 finished, waiting time: 9260, executing time: 9558
+Process 75 finished, waiting time: 9558, executing time: 9856
+Process 43 finished, waiting time: 9856, executing time: 10157
+Process 11 finished, waiting time: 10157, executing time: 10455
+Process 51 finished, waiting time: 10455, executing time: 10756
+Process 21 finished, waiting time: 10756, executing time: 11056
+Process 97 finished, waiting time: 11056, executing time: 11355
+Process 52 finished, waiting time: 11355, executing time: 11653
+Process 25 finished, waiting time: 11653, executing time: 11951
+Process 13 finished, waiting time: 11951, executing time: 12247
+Process 86 finished, waiting time: 12247, executing time: 12547
+Process 98 finished, waiting time: 12547, executing time: 12847
+Process 40 finished, waiting time: 12847, executing time: 13145
+Process 18 finished, waiting time: 13145, executing time: 13442
+Process 6 finished, waiting time: 13442, executing time: 13740
+Process 24 finished, waiting time: 13740, executing time: 14040
+Process 71 finished, waiting time: 14040, executing time: 14338
+Process 65 finished, waiting time: 14338, executing time: 14637
+Process 39 finished, waiting time: 14637, executing time: 14936
+Process 19 finished, waiting time: 14936, executing time: 15235
+Process 47 finished, waiting time: 15235, executing time: 15533
+Process 69 finished, waiting time: 15533, executing time: 15832
+Process 73 finished, waiting time: 15832, executing time: 16131
+Process 22 finished, waiting time: 16131, executing time: 16432
+Process 9 finished, waiting time: 16432, executing time: 16732
+Process 4 finished, waiting time: 16732, executing time: 17031
+Process 48 finished, waiting time: 17031, executing time: 17332
+Process 95 finished, waiting time: 17332, executing time: 17631
+Process 78 finished, waiting time: 17631, executing time: 17931
+Process 20 finished, waiting time: 17931, executing time: 18229
+Process 12 finished, waiting time: 18229, executing time: 18530
+Process 93 finished, waiting time: 18530, executing time: 18829
+Process 92 finished, waiting time: 18829, executing time: 19129
+Process 50 finished, waiting time: 19129, executing time: 19427
+Process 46 finished, waiting time: 19427, executing time: 19726
+Process 96 finished, waiting time: 19726, executing time: 20026
+Process 84 finished, waiting time: 20026, executing time: 20323
+Process 15 finished, waiting time: 20323, executing time: 20623
+Process 94 finished, waiting time: 20623, executing time: 20922
+Process 66 finished, waiting time: 20922, executing time: 21222
+Process 54 finished, waiting time: 21222, executing time: 21523
+Process 72 finished, waiting time: 21523, executing time: 21822
+Process 34 finished, waiting time: 21822, executing time: 22121
+Process 14 finished, waiting time: 22121, executing time: 22421
+Process 70 finished, waiting time: 22421, executing time: 22719
+Process 45 finished, waiting time: 22719, executing time: 23018
+Process 32 finished, waiting time: 23018, executing time: 23317
+Process 90 finished, waiting time: 23317, executing time: 23617
+Process 42 finished, waiting time: 23617, executing time: 23914
+Process 61 finished, waiting time: 23914, executing time: 24213
+Process 63 finished, waiting time: 24213, executing time: 24513
+Process 91 finished, waiting time: 24513, executing time: 24812
+Process 60 finished, waiting time: 24812, executing time: 25112
+Process 99 finished, waiting time: 25112, executing time: 25411
+Process 87 finished, waiting time: 25411, executing time: 25709
+Process 74 finished, waiting time: 25709, executing time: 26009
+Process 36 finished, waiting time: 26009, executing time: 26310
+Process 16 finished, waiting time: 26310, executing time: 26610
+Process 10 finished, waiting time: 26610, executing time: 26909
+Process 38 finished, waiting time: 26909, executing time: 27208
+Process 23 finished, waiting time: 27208, executing time: 27509
+Process 8 finished, waiting time: 27509, executing time: 27808
+Process 64 finished, waiting time: 27808, executing time: 28106
+Process 79 finished, waiting time: 28106, executing time: 28405
+Process 37 finished, waiting time: 28405, executing time: 28704
+Process 28 finished, waiting time: 28704, executing time: 29002
+Process 89 finished, waiting time: 29002, executing time: 29302
+Process 100 finished, waiting time: 29302, executing time: 29602
+Process 31 finished, waiting time: 29602, executing time: 29902
+Średni czas oczekiwania procesu: 14794.5
+Średni czas wykonywania procesu: 15093.5
+
+
+FIFO:
+Page 41 couldn't be found in cache, size of frame not exceeded
+Page 17 couldn't be found in cache, size of frame not exceeded
+Page 20 couldn't be found in cache, size of frame not exceeded
+Page 35 couldn't be found in cache, size of frame not exceeded
+Page 19 couldn't be found in cache, size of frame not exceeded
+Page 29 couldn't be found in cache, size of frame not exceeded
+Page 12 couldn't be found in cache, size of frame not exceeded
+Page 5 couldn't be found in cache, size of frame not exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 41 already in cache
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 20 already in cache
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 20 already in cache
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 24 already in cache
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 39 already in cache
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 32 already in cache
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 49 already in cache
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 28 already in cache
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 37 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 18 already in cache
+Liczba wystąpień błędów w algortymie FIFO: 90
+
+
+LRU:
+Page 41 couldn't be found in cache, size of frame not exceeded
+Page 17 couldn't be found in cache, size of frame not exceeded
+Page 20 couldn't be found in cache, size of frame not exceeded
+Page 35 couldn't be found in cache, size of frame not exceeded
+Page 19 couldn't be found in cache, size of frame not exceeded
+Page 29 couldn't be found in cache, size of frame not exceeded
+Page 12 couldn't be found in cache, size of frame not exceeded
+Page 5 couldn't be found in cache, size of frame not exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 41 already in cache
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 20 already in cache
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 20 already in cache
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 24 already in cache
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 39 already in cache
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 32 already in cache
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 49 already in cache
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 28 already in cache
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 37 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 18 already in cache
+Liczba wystąpień błędów w algortymie LRU: 90
+
+Uruchomienie 2
+Wybierz sposób wprowadzenia danych:
+[1] - wygeneruj
+[2] - wprowadź z pliku
+[3] - wprowadź ręcznie
+[4] - wyświetl informacje
+Ostatecznie wybierz ilość ramek pamięci:
+FCFS:
+Process 39 finished, waiting time: 0, executing time: 297
+Process 42 finished, waiting time: 297, executing time: 596
+Process 62 finished, waiting time: 594, executing time: 894
+Process 99 finished, waiting time: 892, executing time: 1194
+Process 93 finished, waiting time: 1192, executing time: 1495
+Process 75 finished, waiting time: 1492, executing time: 1794
+Process 60 finished, waiting time: 1790, executing time: 2092
+Process 71 finished, waiting time: 2088, executing time: 2390
+Process 55 finished, waiting time: 2386, executing time: 2691
+Process 57 finished, waiting time: 2686, executing time: 2989
+Process 50 finished, waiting time: 2984, executing time: 3291
+Process 70 finished, waiting time: 3284, executing time: 3592
+Process 88 finished, waiting time: 3584, executing time: 3890
+Process 91 finished, waiting time: 3882, executing time: 4192
+Process 90 finished, waiting time: 4183, executing time: 4492
+Process 49 finished, waiting time: 4481, executing time: 4790
+Process 33 finished, waiting time: 4779, executing time: 5092
+Process 58 finished, waiting time: 5080, executing time: 5392
+Process 8 finished, waiting time: 5380, executing time: 5691
+Process 97 finished, waiting time: 5679, executing time: 5989
+Process 31 finished, waiting time: 5977, executing time: 6287
+Process 74 finished, waiting time: 6275, executing time: 6590
+Process 79 finished, waiting time: 6576, executing time: 6890
+Process 81 finished, waiting time: 6876, executing time: 7192
+Process 21 finished, waiting time: 7175, executing time: 7490
+Process 17 finished, waiting time: 7472, executing time: 7789
+Process 6 finished, waiting time: 7771, executing time: 8090
+Process 32 finished, waiting time: 8070, executing time: 8389
+Process 16 finished, waiting time: 8369, executing time: 8691
+Process 46 finished, waiting time: 8669, executing time: 8990
+Process 29 finished, waiting time: 8968, executing time: 9289
+Process 4 finished, waiting time: 9267, executing time: 9590
+Process 95 finished, waiting time: 9566, executing time: 9889
+Process 84 finished, waiting time: 9865, executing time: 10188
+Process 56 finished, waiting time: 10163, executing time: 10487
+Process 89 finished, waiting time: 10462, executing time: 10787
+Process 73 finished, waiting time: 10762, executing time: 11089
+Process 87 finished, waiting time: 11063, executing time: 11388
+Process 30 finished, waiting time: 11362, executing time: 11687
+Process 43 finished, waiting time: 11660, executing time: 11987
+Process 48 finished, waiting time: 11960, executing time: 12291
+Process 80 finished, waiting time: 12261, executing time: 12595
+Process 35 finished, waiting time: 12562, executing time: 12893
+Process 98 finished, waiting time: 12860, executing time: 13194
+Process 51 finished, waiting time: 13160, executing time: 13494
+Process 36 finished, waiting time: 13460, executing time: 13794
+Process 15 finished, waiting time: 13759, executing time: 14092
+Process 52 finished, waiting time: 14057, executing time: 14392
+Process 44 finished, waiting time: 14356, executing time: 14692
+Process 94 finished, waiting time: 14656, executing time: 14992
+Process 34 finished, waiting time: 14955, executing time: 15292
+Process 7 finished, waiting time: 15253, executing time: 15594
+Process 18 finished, waiting time: 15551, executing time: 15893
+Process 82 finished, waiting time: 15849, executing time: 16191
+Process 1 finished, waiting time: 16147, executing time: 16492
+Process 28 finished, waiting time: 16447, executing time: 16794
+Process 22 finished, waiting time: 16747, executing time: 17094
+Process 53 finished, waiting time: 17047, executing time: 17394
+Process 45 finished, waiting time: 17345, executing time: 17693
+Process 38 finished, waiting time: 17644, executing time: 17993
+Process 67 finished, waiting time: 17942, executing time: 18292
+Process 69 finished, waiting time: 18241, executing time: 18592
+Process 20 finished, waiting time: 18541, executing time: 18893
+Process 63 finished, waiting time: 18841, executing time: 19194
+Process 37 finished, waiting time: 19141, executing time: 19494
+Process 77 finished, waiting time: 19440, executing time: 19793
+Process 40 finished, waiting time: 19739, executing time: 20093
+Process 61 finished, waiting time: 20037, executing time: 20392
+Process 65 finished, waiting time: 20336, executing time: 20690
+Process 100 finished, waiting time: 20634, executing time: 20990
+Process 66 finished, waiting time: 20933, executing time: 21292
+Process 9 finished, waiting time: 21233, executing time: 21590
+Process 78 finished, waiting time: 21531, executing time: 21890
+Process 27 finished, waiting time: 21830, executing time: 22188
+Process 3 finished, waiting time: 22128, executing time: 22488
+Process 5 finished, waiting time: 22427, executing time: 22788
+Process 83 finished, waiting time: 22726, executing time: 23091
+Process 41 finished, waiting time: 23025, executing time: 23392
+Process 96 finished, waiting time: 23325, executing time: 23691
+Process 13 finished, waiting time: 23624, executing time: 23990
+Process 2 finished, waiting time: 23921, executing time: 24292
+Process 12 finished, waiting time: 24222, executing time: 24592
+Process 76 finished, waiting time: 24521, executing time: 24892
+Process 59 finished, waiting time: 24819, executing time: 25191
+Process 25 finished, waiting time: 25118, executing time: 25493
+Process 64 finished, waiting time: 25419, executing time: 25794
+Process 19 finished, waiting time: 25718, executing time: 26093
+Process 26 finished, waiting time: 26016, executing time: 26393
+Process 86 finished, waiting time: 26316, executing time: 26691
+Process 10 finished, waiting time: 26614, executing time: 26989
+Process 68 finished, waiting time: 26912, executing time: 27289
+Process 92 finished, waiting time: 27211, executing time: 27587
+Process 11 finished, waiting time: 27509, executing time: 27885
+Process 24 finished, waiting time: 27806, executing time: 28185
+Process 85 finished, waiting time: 28104, executing time: 28486
+Process 14 finished, waiting time: 28404, executing time: 28791
+Process 72 finished, waiting time: 28703, executing time: 29089
+Process 54 finished, waiting time: 29001, executing time: 29389
+Process 47 finished, waiting time: 29301, executing time: 29691
+Process 23 finished, waiting time: 29600, executing time: 29991
+Średni czas oczekiwania procesu: 14800.9
+Średni czas wykonywania procesu: 15141.1
+
+
+LCFS:
+Process 23 finished, waiting time: 0, executing time: 298
+Process 47 finished, waiting time: 298, executing time: 597
+Process 72 finished, waiting time: 597, executing time: 895
+Process 54 finished, waiting time: 895, executing time: 1195
+Process 14 finished, waiting time: 1195, executing time: 1494
+Process 85 finished, waiting time: 1494, executing time: 1794
+Process 24 finished, waiting time: 1794, executing time: 2092
+Process 11 finished, waiting time: 2092, executing time: 2389
+Process 92 finished, waiting time: 2389, executing time: 2687
+Process 68 finished, waiting time: 2687, executing time: 2986
+Process 86 finished, waiting time: 2986, executing time: 3284
+Process 26 finished, waiting time: 3284, executing time: 3584
+Process 19 finished, waiting time: 3584, executing time: 3882
+Process 10 finished, waiting time: 3882, executing time: 4180
+Process 64 finished, waiting time: 4180, executing time: 4479
+Process 25 finished, waiting time: 4479, executing time: 4780
+Process 76 finished, waiting time: 4780, executing time: 5078
+Process 59 finished, waiting time: 5078, executing time: 5377
+Process 12 finished, waiting time: 5377, executing time: 5676
+Process 2 finished, waiting time: 5676, executing time: 5977
+Process 13 finished, waiting time: 5977, executing time: 6274
+Process 96 finished, waiting time: 6274, executing time: 6573
+Process 41 finished, waiting time: 6573, executing time: 6873
+Process 83 finished, waiting time: 6873, executing time: 7172
+Process 5 finished, waiting time: 7172, executing time: 7471
+Process 3 finished, waiting time: 7471, executing time: 7770
+Process 78 finished, waiting time: 7770, executing time: 8069
+Process 27 finished, waiting time: 8069, executing time: 8367
+Process 66 finished, waiting time: 8367, executing time: 8667
+Process 9 finished, waiting time: 8667, executing time: 8965
+Process 100 finished, waiting time: 8965, executing time: 9264
+Process 65 finished, waiting time: 9264, executing time: 9562
+Process 61 finished, waiting time: 9562, executing time: 9861
+Process 40 finished, waiting time: 9861, executing time: 10159
+Process 77 finished, waiting time: 10159, executing time: 10458
+Process 37 finished, waiting time: 10458, executing time: 10757
+Process 63 finished, waiting time: 10757, executing time: 11057
+Process 20 finished, waiting time: 11057, executing time: 11357
+Process 69 finished, waiting time: 11357, executing time: 11657
+Process 67 finished, waiting time: 11657, executing time: 11956
+Process 38 finished, waiting time: 11956, executing time: 12254
+Process 53 finished, waiting time: 12254, executing time: 12552
+Process 45 finished, waiting time: 12552, executing time: 12851
+Process 28 finished, waiting time: 12851, executing time: 13151
+Process 22 finished, waiting time: 13151, executing time: 13451
+Process 1 finished, waiting time: 13451, executing time: 13751
+Process 82 finished, waiting time: 13751, executing time: 14049
+Process 18 finished, waiting time: 14049, executing time: 14347
+Process 7 finished, waiting time: 14347, executing time: 14645
+Process 34 finished, waiting time: 14645, executing time: 14943
+Process 94 finished, waiting time: 14943, executing time: 15242
+Process 52 finished, waiting time: 15242, executing time: 15541
+Process 44 finished, waiting time: 15541, executing time: 15841
+Process 36 finished, waiting time: 15841, executing time: 16140
+Process 15 finished, waiting time: 16140, executing time: 16438
+Process 98 finished, waiting time: 16438, executing time: 16738
+Process 51 finished, waiting time: 16738, executing time: 17038
+Process 80 finished, waiting time: 17038, executing time: 17339
+Process 35 finished, waiting time: 17339, executing time: 17637
+Process 48 finished, waiting time: 17637, executing time: 17938
+Process 43 finished, waiting time: 17938, executing time: 18238
+Process 30 finished, waiting time: 18238, executing time: 18536
+Process 87 finished, waiting time: 18536, executing time: 18835
+Process 73 finished, waiting time: 18835, executing time: 19136
+Process 89 finished, waiting time: 19136, executing time: 19436
+Process 84 finished, waiting time: 19436, executing time: 19734
+Process 56 finished, waiting time: 19734, executing time: 20033
+Process 95 finished, waiting time: 20033, executing time: 20332
+Process 4 finished, waiting time: 20332, executing time: 20631
+Process 46 finished, waiting time: 20631, executing time: 20930
+Process 29 finished, waiting time: 20930, executing time: 21229
+Process 16 finished, waiting time: 21229, executing time: 21529
+Process 32 finished, waiting time: 21529, executing time: 21828
+Process 6 finished, waiting time: 21828, executing time: 22127
+Process 21 finished, waiting time: 22127, executing time: 22424
+Process 17 finished, waiting time: 22424, executing time: 22723
+Process 81 finished, waiting time: 22723, executing time: 23022
+Process 79 finished, waiting time: 23022, executing time: 23322
+Process 74 finished, waiting time: 23322, executing time: 23623
+Process 97 finished, waiting time: 23623, executing time: 23921
+Process 58 finished, waiting time: 23921, executing time: 24221
+Process 33 finished, waiting time: 24221, executing time: 24522
+Process 31 finished, waiting time: 24522, executing time: 24820
+Process 8 finished, waiting time: 24820, executing time: 25119
+Process 90 finished, waiting time: 25119, executing time: 25417
+Process 49 finished, waiting time: 25417, executing time: 25715
+Process 91 finished, waiting time: 25715, executing time: 26016
+Process 88 finished, waiting time: 26016, executing time: 26314
+Process 70 finished, waiting time: 26314, executing time: 26614
+Process 50 finished, waiting time: 26614, executing time: 26914
+Process 57 finished, waiting time: 26914, executing time: 27212
+Process 55 finished, waiting time: 27212, executing time: 27512
+Process 75 finished, waiting time: 27512, executing time: 27810
+Process 71 finished, waiting time: 27810, executing time: 28108
+Process 60 finished, waiting time: 28108, executing time: 28406
+Process 93 finished, waiting time: 28406, executing time: 28706
+Process 99 finished, waiting time: 28706, executing time: 29006
+Process 62 finished, waiting time: 29006, executing time: 29304
+Process 42 finished, waiting time: 29304, executing time: 29601
+Process 39 finished, waiting time: 29601, executing time: 29898
+Średni czas oczekiwania procesu: 14798.2
+Średni czas wykonywania procesu: 15097.2
+
+
+FIFO:
+Page 10 couldn't be found in cache, size of frame not exceeded
+Page 10 already in cache
+Page 30 couldn't be found in cache, size of frame not exceeded
+Page 11 couldn't be found in cache, size of frame not exceeded
+Page 23 couldn't be found in cache, size of frame not exceeded
+Page 4 couldn't be found in cache, size of frame not exceeded
+Page 22 couldn't be found in cache, size of frame not exceeded
+Page 48 couldn't be found in cache, size of frame not exceeded
+Page 16 couldn't be found in cache, size of frame not exceeded
+Page 22 already in cache
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 47 already in cache
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 10 already in cache
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 21 already in cache
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 45 already in cache
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 7 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 14 already in cache
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 15 already in cache
+Page 15 already in cache
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 24 already in cache
+Page 30 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie FIFO: 85
+
+
+LRU:
+Page 10 couldn't be found in cache, size of frame not exceeded
+Page 10 already in cache
+Page 30 couldn't be found in cache, size of frame not exceeded
+Page 11 couldn't be found in cache, size of frame not exceeded
+Page 23 couldn't be found in cache, size of frame not exceeded
+Page 4 couldn't be found in cache, size of frame not exceeded
+Page 22 couldn't be found in cache, size of frame not exceeded
+Page 48 couldn't be found in cache, size of frame not exceeded
+Page 16 couldn't be found in cache, size of frame not exceeded
+Page 22 already in cache
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 47 already in cache
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 10 already in cache
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 21 already in cache
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 7 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 14 already in cache
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 15 already in cache
+Page 15 already in cache
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 24 already in cache
+Page 30 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie LRU: 86
+
+Uruchomienie 3
+Wybierz sposób wprowadzenia danych:
+[1] - wygeneruj
+[2] - wprowadź z pliku
+[3] - wprowadź ręcznie
+[4] - wyświetl informacje
+Ostatecznie wybierz ilość ramek pamięci:
+FCFS:
+Process 34 finished, waiting time: 0, executing time: 299
+Process 72 finished, waiting time: 299, executing time: 603
+Process 68 finished, waiting time: 598, executing time: 902
+Process 69 finished, waiting time: 896, executing time: 1202
+Process 1 finished, waiting time: 1195, executing time: 1500
+Process 57 finished, waiting time: 1493, executing time: 1802
+Process 20 finished, waiting time: 1793, executing time: 2102
+Process 100 finished, waiting time: 2093, executing time: 2402
+Process 22 finished, waiting time: 2393, executing time: 2704
+Process 26 finished, waiting time: 2693, executing time: 3001
+Process 92 finished, waiting time: 2990, executing time: 3303
+Process 41 finished, waiting time: 3290, executing time: 3604
+Process 70 finished, waiting time: 3588, executing time: 3904
+Process 64 finished, waiting time: 3886, executing time: 4203
+Process 17 finished, waiting time: 4185, executing time: 4502
+Process 96 finished, waiting time: 4484, executing time: 4800
+Process 18 finished, waiting time: 4782, executing time: 5098
+Process 51 finished, waiting time: 5080, executing time: 5399
+Process 50 finished, waiting time: 5379, executing time: 5698
+Process 42 finished, waiting time: 5677, executing time: 5998
+Process 10 finished, waiting time: 5975, executing time: 6300
+Process 13 finished, waiting time: 6275, executing time: 6601
+Process 4 finished, waiting time: 6575, executing time: 6899
+Process 71 finished, waiting time: 6873, executing time: 7199
+Process 90 finished, waiting time: 7172, executing time: 7500
+Process 86 finished, waiting time: 7471, executing time: 7800
+Process 9 finished, waiting time: 7771, executing time: 8100
+Process 79 finished, waiting time: 8070, executing time: 8398
+Process 16 finished, waiting time: 8367, executing time: 8697
+Process 24 finished, waiting time: 8666, executing time: 8999
+Process 7 finished, waiting time: 8967, executing time: 9298
+Process 12 finished, waiting time: 9265, executing time: 9599
+Process 75 finished, waiting time: 9566, executing time: 9897
+Process 30 finished, waiting time: 9864, executing time: 10197
+Process 36 finished, waiting time: 10163, executing time: 10499
+Process 62 finished, waiting time: 10463, executing time: 10801
+Process 91 finished, waiting time: 10763, executing time: 11101
+Process 45 finished, waiting time: 11062, executing time: 11402
+Process 84 finished, waiting time: 11363, executing time: 11701
+Process 89 finished, waiting time: 11661, executing time: 12000
+Process 80 finished, waiting time: 11959, executing time: 12301
+Process 74 finished, waiting time: 12260, executing time: 12603
+Process 11 finished, waiting time: 12561, executing time: 12903
+Process 39 finished, waiting time: 12861, executing time: 13204
+Process 82 finished, waiting time: 13161, executing time: 13504
+Process 93 finished, waiting time: 13461, executing time: 13805
+Process 63 finished, waiting time: 13761, executing time: 14105
+Process 83 finished, waiting time: 14061, executing time: 14404
+Process 2 finished, waiting time: 14360, executing time: 14704
+Process 67 finished, waiting time: 14659, executing time: 15004
+Process 94 finished, waiting time: 14959, executing time: 15306
+Process 31 finished, waiting time: 15258, executing time: 15608
+Process 37 finished, waiting time: 15559, executing time: 15907
+Process 27 finished, waiting time: 15858, executing time: 16205
+Process 47 finished, waiting time: 16156, executing time: 16503
+Process 81 finished, waiting time: 16454, executing time: 16804
+Process 98 finished, waiting time: 16752, executing time: 17105
+Process 5 finished, waiting time: 17052, executing time: 17405
+Process 6 finished, waiting time: 17352, executing time: 17705
+Process 48 finished, waiting time: 17651, executing time: 18004
+Process 73 finished, waiting time: 17950, executing time: 18304
+Process 99 finished, waiting time: 18250, executing time: 18605
+Process 59 finished, waiting time: 18550, executing time: 18906
+Process 87 finished, waiting time: 18850, executing time: 19206
+Process 60 finished, waiting time: 19150, executing time: 19505
+Process 55 finished, waiting time: 19449, executing time: 19806
+Process 76 finished, waiting time: 19748, executing time: 20106
+Process 65 finished, waiting time: 20048, executing time: 20405
+Process 19 finished, waiting time: 20346, executing time: 20706
+Process 23 finished, waiting time: 20645, executing time: 21012
+Process 46 finished, waiting time: 20945, executing time: 21311
+Process 54 finished, waiting time: 21244, executing time: 21610
+Process 33 finished, waiting time: 21543, executing time: 21911
+Process 21 finished, waiting time: 21842, executing time: 22211
+Process 38 finished, waiting time: 22141, executing time: 22511
+Process 52 finished, waiting time: 22440, executing time: 22810
+Process 14 finished, waiting time: 22738, executing time: 23108
+Process 28 finished, waiting time: 23036, executing time: 23408
+Process 58 finished, waiting time: 23335, executing time: 23709
+Process 40 finished, waiting time: 23635, executing time: 24011
+Process 32 finished, waiting time: 23935, executing time: 24308
+Process 3 finished, waiting time: 24232, executing time: 24607
+Process 88 finished, waiting time: 24530, executing time: 24905
+Process 43 finished, waiting time: 24828, executing time: 25204
+Process 15 finished, waiting time: 25127, executing time: 25504
+Process 8 finished, waiting time: 25425, executing time: 25803
+Process 85 finished, waiting time: 25724, executing time: 26102
+Process 56 finished, waiting time: 26022, executing time: 26402
+Process 44 finished, waiting time: 26320, executing time: 26704
+Process 78 finished, waiting time: 26620, executing time: 27002
+Process 61 finished, waiting time: 26918, executing time: 27305
+Process 95 finished, waiting time: 27218, executing time: 27604
+Process 29 finished, waiting time: 27517, executing time: 27905
+Process 35 finished, waiting time: 27816, executing time: 28206
+Process 53 finished, waiting time: 28117, executing time: 28506
+Process 66 finished, waiting time: 28416, executing time: 28807
+Process 49 finished, waiting time: 28716, executing time: 29107
+Process 77 finished, waiting time: 29015, executing time: 29407
+Process 97 finished, waiting time: 29315, executing time: 29707
+Process 25 finished, waiting time: 29613, executing time: 30004
+Średni czas oczekiwania procesu: 14806.1
+Średni czas wykonywania procesu: 15153.6
+
+
+LCFS:
+Process 97 finished, waiting time: 0, executing time: 298
+Process 25 finished, waiting time: 298, executing time: 595
+Process 77 finished, waiting time: 595, executing time: 895
+Process 49 finished, waiting time: 895, executing time: 1194
+Process 66 finished, waiting time: 1194, executing time: 1494
+Process 53 finished, waiting time: 1494, executing time: 1793
+Process 35 finished, waiting time: 1793, executing time: 2094
+Process 29 finished, waiting time: 2094, executing time: 2393
+Process 95 finished, waiting time: 2393, executing time: 2692
+Process 61 finished, waiting time: 2692, executing time: 2992
+Process 78 finished, waiting time: 2992, executing time: 3290
+Process 44 finished, waiting time: 3290, executing time: 3590
+Process 56 finished, waiting time: 3590, executing time: 3888
+Process 85 finished, waiting time: 3888, executing time: 4186
+Process 15 finished, waiting time: 4186, executing time: 4484
+Process 8 finished, waiting time: 4484, executing time: 4783
+Process 88 finished, waiting time: 4783, executing time: 5081
+Process 43 finished, waiting time: 5081, executing time: 5380
+Process 3 finished, waiting time: 5380, executing time: 5678
+Process 40 finished, waiting time: 5678, executing time: 5978
+Process 32 finished, waiting time: 5978, executing time: 6275
+Process 58 finished, waiting time: 6275, executing time: 6575
+Process 28 finished, waiting time: 6575, executing time: 6874
+Process 52 finished, waiting time: 6874, executing time: 7172
+Process 14 finished, waiting time: 7172, executing time: 7470
+Process 38 finished, waiting time: 7470, executing time: 7769
+Process 21 finished, waiting time: 7769, executing time: 8068
+Process 33 finished, waiting time: 8068, executing time: 8367
+Process 54 finished, waiting time: 8367, executing time: 8666
+Process 46 finished, waiting time: 8666, executing time: 8965
+Process 23 finished, waiting time: 8965, executing time: 9265
+Process 19 finished, waiting time: 9265, executing time: 9564
+Process 65 finished, waiting time: 9564, executing time: 9862
+Process 76 finished, waiting time: 9862, executing time: 10162
+Process 55 finished, waiting time: 10162, executing time: 10461
+Process 87 finished, waiting time: 10461, executing time: 10761
+Process 60 finished, waiting time: 10761, executing time: 11060
+Process 59 finished, waiting time: 11060, executing time: 11360
+Process 99 finished, waiting time: 11360, executing time: 11660
+Process 73 finished, waiting time: 11660, executing time: 11960
+Process 48 finished, waiting time: 11960, executing time: 12259
+Process 6 finished, waiting time: 12259, executing time: 12558
+Process 98 finished, waiting time: 12558, executing time: 12858
+Process 5 finished, waiting time: 12858, executing time: 13158
+Process 81 finished, waiting time: 13158, executing time: 13456
+Process 47 finished, waiting time: 13456, executing time: 13754
+Process 37 finished, waiting time: 13754, executing time: 14053
+Process 31 finished, waiting time: 14053, executing time: 14354
+Process 27 finished, waiting time: 14354, executing time: 14652
+Process 94 finished, waiting time: 14652, executing time: 14951
+Process 67 finished, waiting time: 14951, executing time: 15251
+Process 2 finished, waiting time: 15251, executing time: 15550
+Process 93 finished, waiting time: 15550, executing time: 15850
+Process 83 finished, waiting time: 15850, executing time: 16149
+Process 63 finished, waiting time: 16149, executing time: 16449
+Process 82 finished, waiting time: 16449, executing time: 16749
+Process 39 finished, waiting time: 16749, executing time: 17049
+Process 74 finished, waiting time: 17049, executing time: 17350
+Process 11 finished, waiting time: 17350, executing time: 17650
+Process 89 finished, waiting time: 17650, executing time: 17948
+Process 80 finished, waiting time: 17948, executing time: 18249
+Process 84 finished, waiting time: 18249, executing time: 18547
+Process 91 finished, waiting time: 18547, executing time: 18846
+Process 45 finished, waiting time: 18846, executing time: 19147
+Process 62 finished, waiting time: 19147, executing time: 19447
+Process 36 finished, waiting time: 19447, executing time: 19747
+Process 30 finished, waiting time: 19747, executing time: 20046
+Process 75 finished, waiting time: 20046, executing time: 20344
+Process 12 finished, waiting time: 20344, executing time: 20645
+Process 7 finished, waiting time: 20645, executing time: 20943
+Process 24 finished, waiting time: 20943, executing time: 21244
+Process 79 finished, waiting time: 21244, executing time: 21541
+Process 16 finished, waiting time: 21541, executing time: 21840
+Process 9 finished, waiting time: 21840, executing time: 22139
+Process 90 finished, waiting time: 22139, executing time: 22438
+Process 86 finished, waiting time: 22438, executing time: 22738
+Process 71 finished, waiting time: 22738, executing time: 23037
+Process 13 finished, waiting time: 23037, executing time: 23337
+Process 4 finished, waiting time: 23337, executing time: 23635
+Process 10 finished, waiting time: 23635, executing time: 23935
+Process 42 finished, waiting time: 23935, executing time: 24233
+Process 50 finished, waiting time: 24233, executing time: 24531
+Process 51 finished, waiting time: 24531, executing time: 24830
+Process 96 finished, waiting time: 24830, executing time: 25128
+Process 70 finished, waiting time: 25128, executing time: 25426
+Process 64 finished, waiting time: 25426, executing time: 25725
+Process 18 finished, waiting time: 25725, executing time: 26023
+Process 17 finished, waiting time: 26023, executing time: 26322
+Process 41 finished, waiting time: 26322, executing time: 26620
+Process 92 finished, waiting time: 26620, executing time: 26920
+Process 26 finished, waiting time: 26920, executing time: 27217
+Process 22 finished, waiting time: 27217, executing time: 27517
+Process 100 finished, waiting time: 27517, executing time: 27817
+Process 57 finished, waiting time: 27817, executing time: 28117
+Process 20 finished, waiting time: 28117, executing time: 28417
+Process 69 finished, waiting time: 28417, executing time: 28716
+Process 1 finished, waiting time: 28716, executing time: 29014
+Process 68 finished, waiting time: 29014, executing time: 29312
+Process 72 finished, waiting time: 29312, executing time: 29611
+Process 34 finished, waiting time: 29611, executing time: 29910
+Średni czas oczekiwania procesu: 14804.8
+Średni czas wykonywania procesu: 15103.9
+
+
+FIFO:
+Page 42 couldn't be found in cache, size of frame not exceeded
+Page 36 couldn't be found in cache, size of frame not exceeded
+Page 2 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 27 couldn't be found in cache, size of frame not exceeded
+Page 6 couldn't be found in cache, size of frame not exceeded
+Page 45 couldn't be found in cache, size of frame not exceeded
+Page 21 couldn't be found in cache, size of frame not exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 6 already in cache
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 42 already in cache
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 22 already in cache
+Page 45 already in cache
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 28 already in cache
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 30 already in cache
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 21 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie FIFO: 90
+
+
+LRU:
+Page 42 couldn't be found in cache, size of frame not exceeded
+Page 36 couldn't be found in cache, size of frame not exceeded
+Page 2 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 27 couldn't be found in cache, size of frame not exceeded
+Page 6 couldn't be found in cache, size of frame not exceeded
+Page 45 couldn't be found in cache, size of frame not exceeded
+Page 21 couldn't be found in cache, size of frame not exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 6 already in cache
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 42 already in cache
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 22 already in cache
+Page 45 already in cache
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 28 already in cache
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 30 already in cache
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 21 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie LRU: 90
+
+Uruchomienie 4
+Wybierz sposób wprowadzenia danych:
+[1] - wygeneruj
+[2] - wprowadź z pliku
+[3] - wprowadź ręcznie
+[4] - wyświetl informacje
+Ostatecznie wybierz ilość ramek pamięci:
+FCFS:
+Process 48 finished, waiting time: 0, executing time: 299
+Process 73 finished, waiting time: 299, executing time: 602
+Process 66 finished, waiting time: 598, executing time: 902
+Process 47 finished, waiting time: 897, executing time: 1201
+Process 11 finished, waiting time: 1195, executing time: 1502
+Process 16 finished, waiting time: 1496, executing time: 1803
+Process 37 finished, waiting time: 1797, executing time: 2103
+Process 80 finished, waiting time: 2097, executing time: 2404
+Process 99 finished, waiting time: 2397, executing time: 2702
+Process 41 finished, waiting time: 2695, executing time: 3006
+Process 51 finished, waiting time: 2996, executing time: 3306
+Process 34 finished, waiting time: 3296, executing time: 3603
+Process 21 finished, waiting time: 3593, executing time: 3906
+Process 61 finished, waiting time: 3891, executing time: 4206
+Process 69 finished, waiting time: 4190, executing time: 4505
+Process 28 finished, waiting time: 4488, executing time: 4807
+Process 84 finished, waiting time: 4789, executing time: 5108
+Process 98 finished, waiting time: 5089, executing time: 5409
+Process 52 finished, waiting time: 5390, executing time: 5707
+Process 62 finished, waiting time: 5688, executing time: 6007
+Process 14 finished, waiting time: 5987, executing time: 6308
+Process 91 finished, waiting time: 6287, executing time: 6608
+Process 90 finished, waiting time: 6587, executing time: 6908
+Process 45 finished, waiting time: 6886, executing time: 7208
+Process 9 finished, waiting time: 7184, executing time: 7507
+Process 92 finished, waiting time: 7483, executing time: 7806
+Process 58 finished, waiting time: 7781, executing time: 8106
+Process 3 finished, waiting time: 8081, executing time: 8406
+Process 23 finished, waiting time: 8381, executing time: 8705
+Process 83 finished, waiting time: 8679, executing time: 9005
+Process 59 finished, waiting time: 8979, executing time: 9305
+Process 35 finished, waiting time: 9278, executing time: 9605
+Process 68 finished, waiting time: 9577, executing time: 9904
+Process 32 finished, waiting time: 9876, executing time: 10205
+Process 39 finished, waiting time: 10176, executing time: 10505
+Process 71 finished, waiting time: 10475, executing time: 10808
+Process 46 finished, waiting time: 10775, executing time: 11108
+Process 1 finished, waiting time: 11074, executing time: 11408
+Process 43 finished, waiting time: 11373, executing time: 11708
+Process 54 finished, waiting time: 11673, executing time: 12008
+Process 24 finished, waiting time: 11973, executing time: 12306
+Process 18 finished, waiting time: 12271, executing time: 12606
+Process 6 finished, waiting time: 12569, executing time: 12908
+Process 97 finished, waiting time: 12871, executing time: 13207
+Process 89 finished, waiting time: 13169, executing time: 13506
+Process 10 finished, waiting time: 13468, executing time: 13806
+Process 53 finished, waiting time: 13768, executing time: 14109
+Process 77 finished, waiting time: 14068, executing time: 14408
+Process 86 finished, waiting time: 14367, executing time: 14709
+Process 75 finished, waiting time: 14667, executing time: 15008
+Process 5 finished, waiting time: 14966, executing time: 15310
+Process 15 finished, waiting time: 15265, executing time: 15611
+Process 63 finished, waiting time: 15565, executing time: 15913
+Process 64 finished, waiting time: 15865, executing time: 16213
+Process 22 finished, waiting time: 16164, executing time: 16513
+Process 26 finished, waiting time: 16463, executing time: 16814
+Process 33 finished, waiting time: 16762, executing time: 17113
+Process 87 finished, waiting time: 17061, executing time: 17412
+Process 29 finished, waiting time: 17359, executing time: 17711
+Process 44 finished, waiting time: 17658, executing time: 18012
+Process 50 finished, waiting time: 17956, executing time: 18312
+Process 36 finished, waiting time: 18255, executing time: 18610
+Process 13 finished, waiting time: 18553, executing time: 18909
+Process 55 finished, waiting time: 18852, executing time: 19211
+Process 78 finished, waiting time: 19152, executing time: 19511
+Process 8 finished, waiting time: 19452, executing time: 19812
+Process 30 finished, waiting time: 19751, executing time: 20111
+Process 7 finished, waiting time: 20049, executing time: 20411
+Process 57 finished, waiting time: 20347, executing time: 20709
+Process 56 finished, waiting time: 20644, executing time: 21007
+Process 93 finished, waiting time: 20942, executing time: 21308
+Process 65 finished, waiting time: 21243, executing time: 21608
+Process 76 finished, waiting time: 21541, executing time: 21907
+Process 94 finished, waiting time: 21839, executing time: 22208
+Process 17 finished, waiting time: 22138, executing time: 22508
+Process 96 finished, waiting time: 22438, executing time: 22810
+Process 40 finished, waiting time: 22738, executing time: 23111
+Process 38 finished, waiting time: 23038, executing time: 23411
+Process 79 finished, waiting time: 23337, executing time: 23709
+Process 2 finished, waiting time: 23634, executing time: 24013
+Process 20 finished, waiting time: 23934, executing time: 24312
+Process 95 finished, waiting time: 24233, executing time: 24613
+Process 67 finished, waiting time: 24532, executing time: 24912
+Process 100 finished, waiting time: 24830, executing time: 25212
+Process 12 finished, waiting time: 25130, executing time: 25512
+Process 60 finished, waiting time: 25429, executing time: 25811
+Process 19 finished, waiting time: 25727, executing time: 26112
+Process 70 finished, waiting time: 26026, executing time: 26409
+Process 81 finished, waiting time: 26323, executing time: 26710
+Process 88 finished, waiting time: 26623, executing time: 27009
+Process 31 finished, waiting time: 26922, executing time: 27309
+Process 49 finished, waiting time: 27221, executing time: 27609
+Process 85 finished, waiting time: 27521, executing time: 27908
+Process 4 finished, waiting time: 27820, executing time: 28208
+Process 72 finished, waiting time: 28118, executing time: 28509
+Process 82 finished, waiting time: 28418, executing time: 28808
+Process 25 finished, waiting time: 28716, executing time: 29108
+Process 42 finished, waiting time: 29015, executing time: 29407
+Process 27 finished, waiting time: 29313, executing time: 29706
+Process 74 finished, waiting time: 29612, executing time: 30005
+Średni czas oczekiwania procesu: 14811.5
+Średni czas wykonywania procesu: 15158
+
+
+LCFS:
+Process 74 finished, waiting time: 0, executing time: 298
+Process 42 finished, waiting time: 298, executing time: 596
+Process 27 finished, waiting time: 596, executing time: 895
+Process 25 finished, waiting time: 895, executing time: 1194
+Process 82 finished, waiting time: 1194, executing time: 1492
+Process 72 finished, waiting time: 1492, executing time: 1792
+Process 4 finished, waiting time: 1792, executing time: 2090
+Process 85 finished, waiting time: 2090, executing time: 2389
+Process 49 finished, waiting time: 2389, executing time: 2689
+Process 31 finished, waiting time: 2689, executing time: 2988
+Process 88 finished, waiting time: 2988, executing time: 3287
+Process 81 finished, waiting time: 3287, executing time: 3587
+Process 70 finished, waiting time: 3587, executing time: 3884
+Process 19 finished, waiting time: 3884, executing time: 4183
+Process 60 finished, waiting time: 4183, executing time: 4481
+Process 12 finished, waiting time: 4481, executing time: 4780
+Process 100 finished, waiting time: 4780, executing time: 5080
+Process 67 finished, waiting time: 5080, executing time: 5378
+Process 95 finished, waiting time: 5378, executing time: 5677
+Process 20 finished, waiting time: 5677, executing time: 5976
+Process 2 finished, waiting time: 5976, executing time: 6276
+Process 79 finished, waiting time: 6276, executing time: 6573
+Process 38 finished, waiting time: 6573, executing time: 6872
+Process 40 finished, waiting time: 6872, executing time: 7172
+Process 96 finished, waiting time: 7172, executing time: 7472
+Process 94 finished, waiting time: 7472, executing time: 7771
+Process 17 finished, waiting time: 7771, executing time: 8071
+Process 76 finished, waiting time: 8071, executing time: 8369
+Process 65 finished, waiting time: 8369, executing time: 8667
+Process 93 finished, waiting time: 8667, executing time: 8968
+Process 57 finished, waiting time: 8968, executing time: 9265
+Process 56 finished, waiting time: 9265, executing time: 9563
+Process 7 finished, waiting time: 9563, executing time: 9861
+Process 30 finished, waiting time: 9861, executing time: 10159
+Process 8 finished, waiting time: 10159, executing time: 10458
+Process 78 finished, waiting time: 10458, executing time: 10758
+Process 55 finished, waiting time: 10758, executing time: 11058
+Process 50 finished, waiting time: 11058, executing time: 11357
+Process 36 finished, waiting time: 11357, executing time: 11655
+Process 13 finished, waiting time: 11655, executing time: 11954
+Process 44 finished, waiting time: 11954, executing time: 12252
+Process 87 finished, waiting time: 12252, executing time: 12550
+Process 29 finished, waiting time: 12550, executing time: 12849
+Process 33 finished, waiting time: 12849, executing time: 13148
+Process 26 finished, waiting time: 13148, executing time: 13447
+Process 22 finished, waiting time: 13447, executing time: 13746
+Process 64 finished, waiting time: 13746, executing time: 14045
+Process 63 finished, waiting time: 14045, executing time: 14345
+Process 15 finished, waiting time: 14345, executing time: 14645
+Process 5 finished, waiting time: 14645, executing time: 14944
+Process 86 finished, waiting time: 14944, executing time: 15244
+Process 75 finished, waiting time: 15244, executing time: 15543
+Process 77 finished, waiting time: 15543, executing time: 15842
+Process 53 finished, waiting time: 15842, executing time: 16142
+Process 97 finished, waiting time: 16142, executing time: 16440
+Process 89 finished, waiting time: 16440, executing time: 16739
+Process 10 finished, waiting time: 16739, executing time: 17039
+Process 18 finished, waiting time: 17039, executing time: 17337
+Process 6 finished, waiting time: 17337, executing time: 17639
+Process 54 finished, waiting time: 17639, executing time: 17939
+Process 43 finished, waiting time: 17939, executing time: 18239
+Process 24 finished, waiting time: 18239, executing time: 18537
+Process 1 finished, waiting time: 18537, executing time: 18836
+Process 46 finished, waiting time: 18836, executing time: 19135
+Process 71 finished, waiting time: 19135, executing time: 19435
+Process 39 finished, waiting time: 19435, executing time: 19734
+Process 32 finished, waiting time: 19734, executing time: 20034
+Process 68 finished, waiting time: 20034, executing time: 20333
+Process 35 finished, waiting time: 20333, executing time: 20632
+Process 59 finished, waiting time: 20632, executing time: 20931
+Process 83 finished, waiting time: 20931, executing time: 21231
+Process 23 finished, waiting time: 21231, executing time: 21529
+Process 92 finished, waiting time: 21529, executing time: 21827
+Process 58 finished, waiting time: 21827, executing time: 22127
+Process 3 finished, waiting time: 22127, executing time: 22427
+Process 45 finished, waiting time: 22427, executing time: 22725
+Process 9 finished, waiting time: 22725, executing time: 23024
+Process 90 finished, waiting time: 23024, executing time: 23323
+Process 91 finished, waiting time: 23323, executing time: 23623
+Process 14 finished, waiting time: 23623, executing time: 23923
+Process 62 finished, waiting time: 23923, executing time: 24222
+Process 98 finished, waiting time: 24222, executing time: 24523
+Process 84 finished, waiting time: 24523, executing time: 24823
+Process 52 finished, waiting time: 24823, executing time: 25121
+Process 28 finished, waiting time: 25121, executing time: 25422
+Process 69 finished, waiting time: 25422, executing time: 25720
+Process 61 finished, waiting time: 25720, executing time: 26019
+Process 21 finished, waiting time: 26019, executing time: 26317
+Process 51 finished, waiting time: 26317, executing time: 26617
+Process 41 finished, waiting time: 26617, executing time: 26918
+Process 34 finished, waiting time: 26918, executing time: 27215
+Process 99 finished, waiting time: 27215, executing time: 27513
+Process 80 finished, waiting time: 27513, executing time: 27813
+Process 47 finished, waiting time: 27813, executing time: 28111
+Process 37 finished, waiting time: 28111, executing time: 28411
+Process 16 finished, waiting time: 28411, executing time: 28712
+Process 11 finished, waiting time: 28712, executing time: 29013
+Process 66 finished, waiting time: 29013, executing time: 29312
+Process 73 finished, waiting time: 29312, executing time: 29611
+Process 48 finished, waiting time: 29611, executing time: 29910
+Średni czas oczekiwania procesu: 14799.3
+Średni czas wykonywania procesu: 15098.4
+
+
+FIFO:
+Page 37 couldn't be found in cache, size of frame not exceeded
+Page 43 couldn't be found in cache, size of frame not exceeded
+Page 33 couldn't be found in cache, size of frame not exceeded
+Page 5 couldn't be found in cache, size of frame not exceeded
+Page 37 already in cache
+Page 12 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 49 couldn't be found in cache, size of frame not exceeded
+Page 35 couldn't be found in cache, size of frame not exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 16 already in cache
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 9 already in cache
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 9 already in cache
+Page 44 already in cache
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 8 already in cache
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 49 already in cache
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 40 already in cache
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 22 already in cache
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 47 already in cache
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie FIFO: 86
+
+
+LRU:
+Page 37 couldn't be found in cache, size of frame not exceeded
+Page 43 couldn't be found in cache, size of frame not exceeded
+Page 33 couldn't be found in cache, size of frame not exceeded
+Page 5 couldn't be found in cache, size of frame not exceeded
+Page 37 already in cache
+Page 12 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 49 couldn't be found in cache, size of frame not exceeded
+Page 35 couldn't be found in cache, size of frame not exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 16 already in cache
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 16 already in cache
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 9 already in cache
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 9 already in cache
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 9 already in cache
+Page 44 already in cache
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 17 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 15 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 44 couldn't be found in cache, size of frame exceeded
+Page 19 couldn't be found in cache, size of frame exceeded
+Page 29 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 19 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 49 already in cache
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 40 already in cache
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 1 couldn't be found in cache, size of frame exceeded
+Page 33 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 22 already in cache
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 39 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie LRU: 86
+
+Uruchomienie 5
+Wybierz sposób wprowadzenia danych:
+[1] - wygeneruj
+[2] - wprowadź z pliku
+[3] - wprowadź ręcznie
+[4] - wyświetl informacje
+Ostatecznie wybierz ilość ramek pamięci:
+FCFS:
+Process 26 finished, waiting time: 0, executing time: 299
+Process 46 finished, waiting time: 299, executing time: 601
+Process 75 finished, waiting time: 596, executing time: 900
+Process 77 finished, waiting time: 895, executing time: 1199
+Process 79 finished, waiting time: 1193, executing time: 1500
+Process 86 finished, waiting time: 1494, executing time: 1797
+Process 66 finished, waiting time: 1791, executing time: 2097
+Process 12 finished, waiting time: 2090, executing time: 2397
+Process 33 finished, waiting time: 2389, executing time: 2696
+Process 41 finished, waiting time: 2687, executing time: 2994
+Process 14 finished, waiting time: 2985, executing time: 3295
+Process 29 finished, waiting time: 3286, executing time: 3595
+Process 7 finished, waiting time: 3586, executing time: 3894
+Process 71 finished, waiting time: 3884, executing time: 4197
+Process 65 finished, waiting time: 4184, executing time: 4497
+Process 87 finished, waiting time: 4483, executing time: 4795
+Process 30 finished, waiting time: 4781, executing time: 5094
+Process 11 finished, waiting time: 5079, executing time: 5393
+Process 98 finished, waiting time: 5378, executing time: 5692
+Process 51 finished, waiting time: 5677, executing time: 5991
+Process 83 finished, waiting time: 5975, executing time: 6291
+Process 84 finished, waiting time: 6274, executing time: 6592
+Process 67 finished, waiting time: 6574, executing time: 6893
+Process 91 finished, waiting time: 6874, executing time: 7192
+Process 15 finished, waiting time: 7172, executing time: 7493
+Process 48 finished, waiting time: 7471, executing time: 7792
+Process 99 finished, waiting time: 7770, executing time: 8092
+Process 18 finished, waiting time: 8070, executing time: 8392
+Process 42 finished, waiting time: 8369, executing time: 8691
+Process 1 finished, waiting time: 8667, executing time: 8989
+Process 40 finished, waiting time: 8965, executing time: 9289
+Process 97 finished, waiting time: 9264, executing time: 9589
+Process 61 finished, waiting time: 9563, executing time: 9890
+Process 32 finished, waiting time: 9861, executing time: 10191
+Process 69 finished, waiting time: 10162, executing time: 10491
+Process 93 finished, waiting time: 10461, executing time: 10789
+Process 72 finished, waiting time: 10758, executing time: 11090
+Process 82 finished, waiting time: 11056, executing time: 11392
+Process 74 finished, waiting time: 11357, executing time: 11689
+Process 89 finished, waiting time: 11654, executing time: 11988
+Process 63 finished, waiting time: 11953, executing time: 12288
+Process 5 finished, waiting time: 12253, executing time: 12590
+Process 43 finished, waiting time: 12554, executing time: 12892
+Process 78 finished, waiting time: 12855, executing time: 13192
+Process 17 finished, waiting time: 13155, executing time: 13492
+Process 73 finished, waiting time: 13454, executing time: 13792
+Process 34 finished, waiting time: 13753, executing time: 14091
+Process 56 finished, waiting time: 14051, executing time: 14391
+Process 35 finished, waiting time: 14350, executing time: 14691
+Process 95 finished, waiting time: 14650, executing time: 14990
+Process 16 finished, waiting time: 14948, executing time: 15289
+Process 28 finished, waiting time: 15247, executing time: 15590
+Process 31 finished, waiting time: 15547, executing time: 15891
+Process 58 finished, waiting time: 15848, executing time: 16192
+Process 94 finished, waiting time: 16148, executing time: 16490
+Process 23 finished, waiting time: 16446, executing time: 16790
+Process 6 finished, waiting time: 16746, executing time: 17095
+Process 88 finished, waiting time: 17045, executing time: 17394
+Process 27 finished, waiting time: 17344, executing time: 17695
+Process 80 finished, waiting time: 17644, executing time: 17994
+Process 64 finished, waiting time: 17942, executing time: 18294
+Process 9 finished, waiting time: 18240, executing time: 18594
+Process 13 finished, waiting time: 18539, executing time: 18897
+Process 60 finished, waiting time: 18838, executing time: 19197
+Process 96 finished, waiting time: 19138, executing time: 19498
+Process 4 finished, waiting time: 19438, executing time: 19798
+Process 100 finished, waiting time: 19738, executing time: 20098
+Process 3 finished, waiting time: 20035, executing time: 20400
+Process 52 finished, waiting time: 20336, executing time: 20699
+Process 90 finished, waiting time: 20634, executing time: 20999
+Process 59 finished, waiting time: 20933, executing time: 21297
+Process 92 finished, waiting time: 21231, executing time: 21598
+Process 70 finished, waiting time: 21531, executing time: 21898
+Process 55 finished, waiting time: 21830, executing time: 22198
+Process 19 finished, waiting time: 22130, executing time: 22501
+Process 39 finished, waiting time: 22429, executing time: 22799
+Process 10 finished, waiting time: 22727, executing time: 23101
+Process 44 finished, waiting time: 23027, executing time: 23399
+Process 22 finished, waiting time: 23325, executing time: 23699
+Process 8 finished, waiting time: 23624, executing time: 23998
+Process 25 finished, waiting time: 23922, executing time: 24296
+Process 47 finished, waiting time: 24220, executing time: 24595
+Process 76 finished, waiting time: 24518, executing time: 24895
+Process 37 finished, waiting time: 24818, executing time: 25197
+Process 45 finished, waiting time: 25118, executing time: 25495
+Process 53 finished, waiting time: 25416, executing time: 25795
+Process 36 finished, waiting time: 25715, executing time: 26095
+Process 20 finished, waiting time: 26015, executing time: 26395
+Process 21 finished, waiting time: 26313, executing time: 26695
+Process 62 finished, waiting time: 26611, executing time: 26994
+Process 81 finished, waiting time: 26909, executing time: 27295
+Process 54 finished, waiting time: 27209, executing time: 27595
+Process 24 finished, waiting time: 27508, executing time: 27892
+Process 38 finished, waiting time: 27805, executing time: 28192
+Process 50 finished, waiting time: 28105, executing time: 28492
+Process 57 finished, waiting time: 28405, executing time: 28796
+Process 2 finished, waiting time: 28705, executing time: 29095
+Process 49 finished, waiting time: 29004, executing time: 29396
+Process 68 finished, waiting time: 29305, executing time: 29697
+Process 85 finished, waiting time: 29605, executing time: 29997
+Średni czas oczekiwania procesu: 14799.6
+Średni czas wykonywania procesu: 15144.3
+
+
+LCFS:
+Process 85 finished, waiting time: 0, executing time: 299
+Process 68 finished, waiting time: 299, executing time: 599
+Process 57 finished, waiting time: 599, executing time: 899
+Process 49 finished, waiting time: 899, executing time: 1200
+Process 2 finished, waiting time: 1200, executing time: 1499
+Process 54 finished, waiting time: 1499, executing time: 1798
+Process 50 finished, waiting time: 1798, executing time: 2098
+Process 38 finished, waiting time: 2098, executing time: 2398
+Process 24 finished, waiting time: 2398, executing time: 2695
+Process 81 finished, waiting time: 2695, executing time: 2995
+Process 62 finished, waiting time: 2995, executing time: 3293
+Process 21 finished, waiting time: 3293, executing time: 3591
+Process 20 finished, waiting time: 3591, executing time: 3889
+Process 53 finished, waiting time: 3889, executing time: 4188
+Process 36 finished, waiting time: 4188, executing time: 4488
+Process 45 finished, waiting time: 4488, executing time: 4786
+Process 37 finished, waiting time: 4786, executing time: 5086
+Process 76 finished, waiting time: 5086, executing time: 5386
+Process 47 finished, waiting time: 5386, executing time: 5684
+Process 25 finished, waiting time: 5684, executing time: 5982
+Process 8 finished, waiting time: 5982, executing time: 6280
+Process 22 finished, waiting time: 6280, executing time: 6579
+Process 44 finished, waiting time: 6579, executing time: 6877
+Process 10 finished, waiting time: 6877, executing time: 7177
+Process 39 finished, waiting time: 7177, executing time: 7475
+Process 19 finished, waiting time: 7475, executing time: 7774
+Process 70 finished, waiting time: 7774, executing time: 8073
+Process 55 finished, waiting time: 8073, executing time: 8373
+Process 92 finished, waiting time: 8373, executing time: 8673
+Process 90 finished, waiting time: 8673, executing time: 8972
+Process 59 finished, waiting time: 8972, executing time: 9270
+Process 52 finished, waiting time: 9270, executing time: 9568
+Process 3 finished, waiting time: 9568, executing time: 9869
+Process 100 finished, waiting time: 9869, executing time: 10166
+Process 96 finished, waiting time: 10166, executing time: 10466
+Process 4 finished, waiting time: 10466, executing time: 10766
+Process 60 finished, waiting time: 10766, executing time: 11066
+Process 13 finished, waiting time: 11066, executing time: 11365
+Process 9 finished, waiting time: 11365, executing time: 11664
+Process 64 finished, waiting time: 11664, executing time: 11962
+Process 80 finished, waiting time: 11962, executing time: 12260
+Process 27 finished, waiting time: 12260, executing time: 12560
+Process 88 finished, waiting time: 12560, executing time: 12859
+Process 6 finished, waiting time: 12859, executing time: 13158
+Process 94 finished, waiting time: 13158, executing time: 13456
+Process 58 finished, waiting time: 13456, executing time: 13756
+Process 23 finished, waiting time: 13756, executing time: 14056
+Process 31 finished, waiting time: 14056, executing time: 14357
+Process 28 finished, waiting time: 14357, executing time: 14657
+Process 95 finished, waiting time: 14657, executing time: 14955
+Process 16 finished, waiting time: 14955, executing time: 15254
+Process 56 finished, waiting time: 15254, executing time: 15553
+Process 35 finished, waiting time: 15553, executing time: 15853
+Process 34 finished, waiting time: 15853, executing time: 16151
+Process 73 finished, waiting time: 16151, executing time: 16450
+Process 17 finished, waiting time: 16450, executing time: 16749
+Process 78 finished, waiting time: 16749, executing time: 17049
+Process 43 finished, waiting time: 17049, executing time: 17350
+Process 5 finished, waiting time: 17350, executing time: 17651
+Process 89 finished, waiting time: 17651, executing time: 17950
+Process 82 finished, waiting time: 17950, executing time: 18251
+Process 74 finished, waiting time: 18251, executing time: 18548
+Process 63 finished, waiting time: 18548, executing time: 18848
+Process 72 finished, waiting time: 18848, executing time: 19146
+Process 93 finished, waiting time: 19146, executing time: 19443
+Process 69 finished, waiting time: 19443, executing time: 19742
+Process 61 finished, waiting time: 19742, executing time: 20040
+Process 32 finished, waiting time: 20040, executing time: 20341
+Process 97 finished, waiting time: 20341, executing time: 20640
+Process 40 finished, waiting time: 20640, executing time: 20939
+Process 42 finished, waiting time: 20939, executing time: 21237
+Process 1 finished, waiting time: 21237, executing time: 21535
+Process 18 finished, waiting time: 21535, executing time: 21834
+Process 99 finished, waiting time: 21834, executing time: 22134
+Process 48 finished, waiting time: 22134, executing time: 22433
+Process 15 finished, waiting time: 22433, executing time: 22732
+Process 91 finished, waiting time: 22732, executing time: 23030
+Process 67 finished, waiting time: 23030, executing time: 23330
+Process 84 finished, waiting time: 23330, executing time: 23630
+Process 83 finished, waiting time: 23630, executing time: 23929
+Process 51 finished, waiting time: 23929, executing time: 24227
+Process 98 finished, waiting time: 24227, executing time: 24526
+Process 30 finished, waiting time: 24526, executing time: 24824
+Process 11 finished, waiting time: 24824, executing time: 25123
+Process 87 finished, waiting time: 25123, executing time: 25421
+Process 65 finished, waiting time: 25421, executing time: 25720
+Process 71 finished, waiting time: 25720, executing time: 26020
+Process 7 finished, waiting time: 26020, executing time: 26318
+Process 41 finished, waiting time: 26318, executing time: 26616
+Process 33 finished, waiting time: 26616, executing time: 26914
+Process 29 finished, waiting time: 26914, executing time: 27214
+Process 14 finished, waiting time: 27214, executing time: 27515
+Process 12 finished, waiting time: 27515, executing time: 27814
+Process 66 finished, waiting time: 27814, executing time: 28113
+Process 86 finished, waiting time: 28113, executing time: 28410
+Process 79 finished, waiting time: 28410, executing time: 28711
+Process 77 finished, waiting time: 28711, executing time: 29009
+Process 75 finished, waiting time: 29009, executing time: 29308
+Process 46 finished, waiting time: 29308, executing time: 29605
+Process 26 finished, waiting time: 29605, executing time: 29904
+Średni czas oczekiwania procesu: 14805.2
+Średni czas wykonywania procesu: 15104.3
+
+
+FIFO:
+Page 3 couldn't be found in cache, size of frame not exceeded
+Page 23 couldn't be found in cache, size of frame not exceeded
+Page 36 couldn't be found in cache, size of frame not exceeded
+Page 21 couldn't be found in cache, size of frame not exceeded
+Page 40 couldn't be found in cache, size of frame not exceeded
+Page 29 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 47 couldn't be found in cache, size of frame not exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 32 already in cache
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 12 already in cache
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 13 already in cache
+Page 8 already in cache
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 34 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 36 already in cache
+Page 40 already in cache
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 38 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 10 already in cache
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie FIFO: 89
+
+
+LRU:
+Page 3 couldn't be found in cache, size of frame not exceeded
+Page 23 couldn't be found in cache, size of frame not exceeded
+Page 36 couldn't be found in cache, size of frame not exceeded
+Page 21 couldn't be found in cache, size of frame not exceeded
+Page 40 couldn't be found in cache, size of frame not exceeded
+Page 29 couldn't be found in cache, size of frame not exceeded
+Page 25 couldn't be found in cache, size of frame not exceeded
+Page 47 couldn't be found in cache, size of frame not exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 2 couldn't be found in cache, size of frame exceeded
+Page 32 already in cache
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 23 couldn't be found in cache, size of frame exceeded
+Page 11 couldn't be found in cache, size of frame exceeded
+Page 24 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 31 already in cache
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 45 couldn't be found in cache, size of frame exceeded
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 41 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 3 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 13 already in cache
+Page 8 already in cache
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 16 couldn't be found in cache, size of frame exceeded
+Page 30 couldn't be found in cache, size of frame exceeded
+Page 3 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 35 couldn't be found in cache, size of frame exceeded
+Page 36 couldn't be found in cache, size of frame exceeded
+Page 37 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 40 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 34 already in cache
+Page 50 couldn't be found in cache, size of frame exceeded
+Page 36 already in cache
+Page 40 already in cache
+Page 13 couldn't be found in cache, size of frame exceeded
+Page 27 couldn't be found in cache, size of frame exceeded
+Page 21 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 4 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 14 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 9 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 20 couldn't be found in cache, size of frame exceeded
+Page 22 couldn't be found in cache, size of frame exceeded
+Page 7 couldn't be found in cache, size of frame exceeded
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 31 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 42 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 49 couldn't be found in cache, size of frame exceeded
+Page 43 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 38 couldn't be found in cache, size of frame exceeded
+Page 18 couldn't be found in cache, size of frame exceeded
+Page 29 couldn't be found in cache, size of frame exceeded
+Page 10 couldn't be found in cache, size of frame exceeded
+Page 6 couldn't be found in cache, size of frame exceeded
+Page 26 couldn't be found in cache, size of frame exceeded
+Page 38 already in cache
+Page 34 couldn't be found in cache, size of frame exceeded
+Page 32 couldn't be found in cache, size of frame exceeded
+Page 12 couldn't be found in cache, size of frame exceeded
+Page 47 couldn't be found in cache, size of frame exceeded
+Page 10 already in cache
+Page 8 couldn't be found in cache, size of frame exceeded
+Page 46 couldn't be found in cache, size of frame exceeded
+Page 28 couldn't be found in cache, size of frame exceeded
+Page 48 couldn't be found in cache, size of frame exceeded
+Page 25 couldn't be found in cache, size of frame exceeded
+Page 5 couldn't be found in cache, size of frame exceeded
+Liczba wystąpień błędów w algortymie LRU: 90
+

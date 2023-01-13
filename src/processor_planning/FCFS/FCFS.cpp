@@ -63,7 +63,7 @@ void FirstCome::averageTime()
 
 
     std::ofstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
 
     outdata << "FCFS:\n";
     for (auto i = 0; i < (int) _stack.size(); i++)
@@ -78,5 +78,12 @@ void FirstCome::averageTime()
     std::cout << "Średni czas wykonywania procesu: " << (float) total_executing_time/ (float) _stack.size() << "\n";
     outdata << "Średni czas oczekiwania procesu: " << (float) total_waiting_time/ (float) _stack.size() << "\n" << "Średni czas wykonywania procesu: " << (float) total_executing_time/ (float) _stack.size() << "\n";
     
+    outdata.close();
+
+    outdata.open("files/background_files/out_wts_f.txt");
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        outdata << _stack.at(i).waiting_time << "\n";
+    }
     outdata.close();
 }

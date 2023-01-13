@@ -1,98 +1,20 @@
-FCFS:
-Process 1 finished, waiting time: 0, executing time: 1911
-Process 2 finished, waiting time: 1911, executing time: 5071
-Process 3 finished, waiting time: 4078, executing time: 6680
-Process 4 finished, waiting time: 6142, executing time: 8469
-Process 5 finished, waiting time: 8043, executing time: 10767
-Process 6 finished, waiting time: 10241, executing time: 12424
-Process 7 finished, waiting time: 12270, executing time: 15177
-Process 8 finished, waiting time: 14633, executing time: 17118
-Process 9 finished, waiting time: 16583, executing time: 18923
-Process 10 finished, waiting time: 18779, executing time: 21093
-Process 11 finished, waiting time: 20467, executing time: 22934
-Process 12 finished, waiting time: 22245, executing time: 24896
-Process 13 finished, waiting time: 24288, executing time: 26961
-Process 14 finished, waiting time: 26135, executing time: 28145
-Process 15 finished, waiting time: 28039, executing time: 30186
-Process 16 finished, waiting time: 30014, executing time: 32159
-Process 17 finished, waiting time: 31977, executing time: 34922
-Process 18 finished, waiting time: 34047, executing time: 36391
-Process 19 finished, waiting time: 35780, executing time: 38824
-Process 20 finished, waiting time: 38141, executing time: 40775
-Średni czas oczekiwania procesu: 19190.7
-Średni czas wykonywania procesu: 21691.3
-
-
-LCFS:
-Process 2 finished, waiting time: 0, executing time: 2167
-Process 20 finished, waiting time: 2167, executing time: 3922
-Process 17 finished, waiting time: 3922, executing time: 5992
-Process 13 finished, waiting time: 5992, executing time: 7839
-Process 11 finished, waiting time: 7839, executing time: 9617
-Process 19 finished, waiting time: 9617, executing time: 11978
-Process 10 finished, waiting time: 11978, executing time: 13666
-Process 18 finished, waiting time: 13666, executing time: 15399
-Process 12 finished, waiting time: 15399, executing time: 17442
-Process 7 finished, waiting time: 17442, executing time: 19805
-Process 3 finished, waiting time: 19805, executing time: 21869
-Process 8 finished, waiting time: 21869, executing time: 23819
-Process 5 finished, waiting time: 23819, executing time: 26017
-Process 4 finished, waiting time: 26017, executing time: 27918
-Process 16 finished, waiting time: 27918, executing time: 29881
-Process 15 finished, waiting time: 29881, executing time: 31856
-Process 6 finished, waiting time: 31856, executing time: 33885
-Process 9 finished, waiting time: 33885, executing time: 36081
-Process 14 finished, waiting time: 36081, executing time: 37985
-Process 1 finished, waiting time: 37985, executing time: 39896
-Średni czas oczekiwania procesu: 18856.9
-Średni czas wykonywania procesu: 20851.7
-
-
-
----------------------------------
-FIFO:
-Page 9 couldn't be found in cache, size of frame not exceeded
-Page 2 couldn't be found in cache, size of frame not exceeded
-Page 3 couldn't be found in cache, size of frame not exceeded
-Page 2 already in cache
-Page 8 couldn't be found in cache, size of frame exceeded
-Page 3 already in cache
-Page 4 couldn't be found in cache, size of frame exceeded
-Page 5 couldn't be found in cache, size of frame exceeded
-Page 6 couldn't be found in cache, size of frame exceeded
-Page 3 couldn't be found in cache, size of frame exceeded
-Page 7 couldn't be found in cache, size of frame exceeded
-Page 6 already in cache
-Page 5 couldn't be found in cache, size of frame exceeded
-Page 7 already in cache
-Page 6 couldn't be found in cache, size of frame exceeded
-Page 6 already in cache
-Page 10 couldn't be found in cache, size of frame exceeded
-Page 8 couldn't be found in cache, size of frame exceeded
-Page 8 already in cache
-Page 5 couldn't be found in cache, size of frame exceeded
-Liczba wystąpień błędów w algortymie FIFO: 14
-
-
-LRU:
-Page 9 couldn't be found in cache, size of frame not exceeded
-Page 2 couldn't be found in cache, size of frame not exceeded
-Page 3 couldn't be found in cache, size of frame not exceeded
-Page 2 already in cache
-Page 8 couldn't be found in cache, size of frame exceeded
-Page 3 already in cache
-Page 4 couldn't be found in cache, size of frame exceeded
-Page 5 couldn't be found in cache, size of frame exceeded
-Page 6 couldn't be found in cache, size of frame exceeded
-Page 3 couldn't be found in cache, size of frame exceeded
-Page 7 couldn't be found in cache, size of frame exceeded
-Page 6 already in cache
-Page 5 couldn't be found in cache, size of frame exceeded
-Page 7 already in cache
-Page 6 already in cache
-Page 6 already in cache
-Page 10 couldn't be found in cache, size of frame exceeded
-Page 8 couldn't be found in cache, size of frame exceeded
-Page 8 already in cache
-Page 5 couldn't be found in cache, size of frame exceeded
-Liczba wystąpień błędów w algortymie LRU: 13
+Odchylenie standardowe dla FCFS:
+8631.022676855855
+Odchylenie standardowe dla LCFS:
+8630.866406659297
+Odchylenie standardowe dla FCFS:
+8633.040784126993
+Odchylenie standardowe dla LCFS:
+8633.06833098754
+Odchylenie standardowe dla FCFS:
+8636.601128337466
+Odchylenie standardowe dla LCFS:
+8636.529541494083
+Odchylenie standardowe dla FCFS:
+8634.364399792263
+Odchylenie standardowe dla LCFS:
+8634.167991277445
+Odchylenie standardowe dla FCFS:
+8632.999155936483
+Odchylenie standardowe dla LCFS:
+8632.951355799474

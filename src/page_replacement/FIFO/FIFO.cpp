@@ -7,7 +7,7 @@ void FIFO::FIFO_checkFaults()
 {
     std::vector<int> q;
     std::fstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
     outdata << "\n\n\n---------------------------------\nFIFO:";
 
     for (int i = 0; i < (int) _stack.size(); i++)
@@ -44,7 +44,7 @@ void FIFO::results()
     FIFO_checkFaults();
     std::cout << "\nLiczba wystąpień błędów w algortymie FIFO: " << faults << "\n";
     std::fstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
     outdata << "\nLiczba wystąpień błędów w algortymie FIFO: " << faults << "\n";
     outdata.close();
 }

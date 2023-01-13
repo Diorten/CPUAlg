@@ -11,7 +11,7 @@ void Pages_::putOnStack(int id)
 void Pages_::fetchFromRand()
 {
     std::fstream file_with_pages;
-    file_with_pages.open("files/generated_pages.txt", std::ios::in);
+    file_with_pages.open("files/background_files/generated_pages.txt", std::ios::in);
     int id;
     while (file_with_pages >> id)
     {

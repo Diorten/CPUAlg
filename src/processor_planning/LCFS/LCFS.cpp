@@ -6,7 +6,7 @@
 void LCFS::emulator()
 {
     std::ofstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
 
     outdata << "\n\nLCFS:\n";
     for (int i = 0; i < (int) _stack.size(); i++)
@@ -77,7 +77,7 @@ void LCFS::findExecutingTime()
 void LCFS::averageTime()
 {
     std::ofstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
 
     emulator();
     findWaitingTime();
@@ -86,5 +86,32 @@ void LCFS::averageTime()
     std::cout << "Średni czas wykonywania procesu: " << average_exec << "\n";
 
     outdata << "Średni czas oczekiwania procesu: " << average_wait << "\n" << "Średni czas wykonywania procesu: " << average_exec << "\n";
+    outdata.close();
+
+    int temp_wt;
+
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        _stack.at(i).waiting_time = _stack.at(i).execute - _stack.at(i).executing_time;
+    }
+    
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        for (int j = 0; j < (int) _stack.size(); j++)
+        {
+            if (_stack.at(i).waiting_time < _stack.at(j).waiting_time)
+            {
+                temp_wt = _stack.at(i).waiting_time;
+                _stack.at(i).waiting_time = _stack.at(j).waiting_time;
+                _stack.at(j).waiting_time = temp_wt;
+            }
+        }
+    }
+
+    outdata.open("files/background_files/out_wts_l.txt");
+    for (int i = 0; i < (int) _stack.size(); i++)
+    {
+        outdata << _stack.at(i).waiting_time << "\n";
+    }
     outdata.close();
 }

@@ -52,14 +52,13 @@ void Stack_::fetchFromRand()
     Py_Finalize();
     
     std::fstream file_with_processes;
-    file_with_processes.open("files/generated_processes.txt", std::ios::in);
+    file_with_processes.open("files/background_files/generated_processes.txt", std::ios::in);
     int file_coming, file_executing;
     while (file_with_processes >> file_coming >> file_executing)
     {
         putOnStack(file_coming, file_executing);
     }
     file_with_processes.close();
-    Stack.at(0).coming_time = 0;
 }
 
 void Stack_::fetchFromFile()
@@ -79,7 +78,6 @@ void Stack_::fetchFromFile()
         }
     }
     file_with_processes.close();
-    Stack.at(0).coming_time = 0;
 }
 
 void Stack_::debugDisplay()

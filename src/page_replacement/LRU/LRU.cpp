@@ -14,7 +14,7 @@ void LRU::LRU_checkFaults()
 {
     std::vector<PageStruct> q;
     std::fstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
     outdata << "\n\nLRU:";
 
     for (int i = 0; i < (int) _stack.size(); i++)
@@ -66,7 +66,7 @@ void LRU::results()
     LRU_checkFaults();
     std::cout << "\nLiczba wystąpień błędów w algortymie LRU: " << faults << "\n";
     std::fstream outdata;
-    outdata.open("files/results.txt", std::ios_base::app);
+    outdata.open("files/running_log.txt", std::ios_base::app);
     outdata << "\nLiczba wystąpień błędów w algortymie LRU: " << faults << "\n";
     outdata.close();
 }

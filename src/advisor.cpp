@@ -34,7 +34,7 @@ void Advisor::fetchInfo()
     temp = 0;
     do
     {
-        std::cout << "Ostatecznie wybierz rozmiar ramki pamięci:\n";
+        std::cout << "Ostatecznie wybierz ilość ramek pamięci:\n";
         std::cin >> opt_3;
         if (opt_3 > 0)
         {
@@ -66,9 +66,6 @@ void Advisor::initRun(int opt)
 
 void Advisor::startAlgorithms()
 {
-    std::ofstream outdata;
-    outdata.open("files/results.txt", std::ofstream::out | std::ofstream::trunc);
-    outdata.close();
     //stack.debugDisplay();
     FirstCome fc{stack.Stack};
     LCFS lc{stack.Stack};
